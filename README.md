@@ -1,16 +1,21 @@
-### Hi there 👋
+![logo TB golden pattern](https://user-images.githubusercontent.com/29009309/172242619-80bb8c27-4722-4ae7-8e43-c5c902720e31.jpg)
 
-<!--
-**thamybessa27/thamybessa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+```
+const thamy = {
+  name: "Thamy Bessa",
+  role: "Frontend Developer",
+  code: ["Javascript", "HTML", "CSS", "SASS", "React.js", "React-Testing-Library"], 
+  skills: ["Creative", "Organized", "Disciplined", "Open-minded", "Curious", "Ever-learning", "Self-taught"],
+  currentLearning: ["Functional Programming"],
+  motto: "The only constant is change",
+  passions: ["Music", "Cooking", "Travelling", "Sports"],
+  funFact: "I collect sea shells from around the world",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/thamires-bessa/?locale=en_US)
+- Email: thamybessa(at)yahoo(dot)com
