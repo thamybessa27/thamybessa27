@@ -3,15 +3,17 @@
 # About me
 
 ```
-const thamy = {
-  name: "Thamy Bessa",
-  role: "Frontend Developer",
-  code: ["Javascript", "HTML", "CSS", "SASS", "React.js", "React-Testing-Library"], 
-  skills: ["Creative", "Organized", "Disciplined", "Open-minded", "Curious", "Ever-learning", "Self-taught"],
-  currentLearning: ["Functional Programming"],
-  motto: "The only constant is change",
-  passions: ["Music", "Cooking", "Travelling", "Sports"],
-  funFact: "I collect sea shells from around the world",
+class Thamy {
+  constructor() {
+    this.name: "Thamy Bessa",
+    this.role: "Frontend Developer",
+    this.code: ["Javascript", "HTML", "CSS", "SASS", "React.js", "React-Testing-Library"], 
+    this.skills: ["Creative", "Organized", "Disciplined", "Open-minded", "Curious", "Ever-learning", "Self-taught"],
+    this.currentLearning: ["Functional Programming"],
+    this.motto: "The only constant is change",
+    this.passions: ["Music", "Cooking", "Travelling", "Sports"],
+    this.funFact: "I collect sea shells from around the world",
+  }
 };
 ```
 
